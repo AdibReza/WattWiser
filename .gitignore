@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+shelly_venv1/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated processed datasets
+data/processed/*.csv
